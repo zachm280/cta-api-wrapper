@@ -1,0 +1,42 @@
+[
+  {
+    "stop_id": 41420,
+    "stop_name": "Addison (Red)",
+    "latitude": 41.947316173,
+    "longitude": -87.6536241013,
+    "routes": [
+      "Red"
+    ],
+    "distance": 0.18689799856462022
+  },
+  {
+    "stop_id": 17390,
+    "stop_name": "Halsted & Waveland",
+    "latitude": 41.949396,
+    "longitude": -87.649489,
+    "routes": [
+      "8"
+    ],
+    "distance": 0.09738352352478348
+  },
+  {
+    "stop_id": 5407,
+    "stop_name": "Broadway & Halsted",
+    "latitude": 41.95087,
+    "longitude": -87.649334,
+    "routes": [
+      "36"
+    ],
+    "distance": 0.14415734849434161
+  },
+  {
+    "stop_id": 41220,
+    "stop_name": "Fullerton",
+    "latitude": 41.9253003719,
+    "longitude": -87.6528684398,
+    "routes": [
+      "Red"
+    ],
+    "distance": 0.33568585508235405
+  }
+]
